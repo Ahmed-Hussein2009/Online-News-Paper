@@ -1,0 +1,182 @@
+<!--Start Tabs-->
+        <section class="py-5 featured">
+            <div class="container">
+                <div class="row mb-3">
+              <div class="col-md-12">
+              <h2 style="text-align: center ; color: orangered ">??? ??????? ??? </h2>
+           </div>
+             </div>
+         <div class="row">
+                    <div class="col-md-12 text-center ">
+                        <nav class="nav-justified ">
+                        <div class="nav nav-tabs " id="nav-tab" role="tablist">
+                            <a class="nav-item nav-link active" id="pop1-tab" data-toggle="tab" href="#pop1" role="tab" aria-controls="pop1" aria-selected="true">??</a>
+                            <a class="nav-item nav-link" id="pop2-tab" data-toggle="tab" href="#pop2" role="tab" aria-controls="pop2" aria-selected="false">?????</a>
+                            <a class="nav-item nav-link" id="pop3-tab" data-toggle="tab" href="#pop3" role="tab" aria-controls="pop3" aria-selected="false">?????</a>
+                    
+                         </div>
+                     </nav>
+                     <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="pop1" role="tabpanel" aria-labelledby="pop1-tab">
+                      <div class="pt-4"></div>
+                      <div class="container">
+                            <div class="text-center">
+                                <div class="card-group">
+                                   
+                                     <div class="card"  >
+                                        <img class="card-img-top" src="img/bed2.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body" >
+                                          <h4 class="card-title">Maruti Swift</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>  
+                                   
+                                       
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed1.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Porsche</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                    </div>
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed3.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Swift Dezire</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed1.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Maruti Swift</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                       <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                            </div>
+                        
+                      </div>
+                        
+                      </div>
+                  <div class="tab-pane fade" id="pop2" role="tabpanel" aria-labelledby="pop2-tab">
+                       <div class="pt-3"></div>
+                       <div class="text-center">
+                                <div class="card-group">
+                                   
+                                     <div class="card">
+                                        <img class="card-img-top" src="img/bed4.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Maruti Swift</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>  
+                                   
+                                       
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed5.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Porsche</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                    </div>
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed6.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Swift Dezire</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed1.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Maruti Swift</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                       <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                            </div>
+                      
+                  </div>
+                  <div class="tab-pane fade" id="pop3" role="tabpanel" aria-labelledby="pop3-tab">
+                       <div class="pt-3"></div>
+                        <div class="text-center">
+                                <div class="card-group">
+                                   
+                                     <div class="card">
+                                        <img class="card-img-top" src="img/bed2.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Maruti Swift</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>  
+                                   
+                                       
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed1.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Porsche</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                    </div>
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed3.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Swift Dezire</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                        <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>
+                                      <div class="card">
+                                        <img class="card-img-top" src="img/bed1.jpg?wm=0&q=85" alt="Card image cap">
+                                        <div class="card-body">
+                                          <h4 class="card-title">Maruti Swift</h4>
+                                          <p class="card-text">Rs. 6.44 Lac to 8.99 Lac.</p>
+                                        </div>
+                                       <div class="card-footer">
+                                          <button type="button" class="btn btn-danger btn-block">know more</button>
+                                        </div>
+                                      </div>
+                                    </div>
+                            </div>
+                      
+                  </div>
+                  
+                </div>
+            </div>
+         </div>
+         </div>
+        </section>
+    <!--End Tabs-->
